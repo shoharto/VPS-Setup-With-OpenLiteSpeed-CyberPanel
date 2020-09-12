@@ -1,24 +1,23 @@
 # VPS Setup With OpenLiteSpeed CyberPanel
 
-Foobar is a Python library for dealing with word pluralization.
+This server setup guidline for the very begginers VPC Lover.
 
-## Installation
+## Installation OpenLiteSpeed
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [openlitespeed](https://openlitespeed.org/kb/) to install OpenLiteSpeed.
 
 ```bash
-pip install foobar
+pip install OpenLiteSpeed
 ```
 
-## Usage
+## Installation CyberPanel
 
-```python
-import foobar
+Use the package manager [openlitespeed](https://openlitespeed.org/kb/) to install CyberPanel.
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```bash
+pip install OpenLiteSpeed
 ```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
