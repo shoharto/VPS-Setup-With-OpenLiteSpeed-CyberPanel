@@ -4,19 +4,18 @@ This server setup guidline for the very begginers VPC Lover. In this repository 
 
 ## Table of Contents for CyberPanel
 
-- Introduction
-- Installation
-- Security 
+- [Introduction](CyberPanel/Introduction.md)
+- [Installation](CyberPanel/Installation.md)
+- [Security](CyberPanel/Security.md)
 - Configuration
-  - SSL
-  - SSH
-  - PHP
-  - DNS
-  - Email
-  - Docker
-  - Laravel
-  - Node js
-  - WordPress
-  - Defaut Port Change
-  
-  
+  - [SSL](CyberPanel/Configuration/SSL.md)
+  - [SSH](CyberPanel/Configuration/SSH.md)
+  - [PHP](CyberPanel/Configuration/PHP.md)
+  - [DNS](CyberPanel/Configuration/DNS.md)
+  - [Email](CyberPanel/Configuration/Email.md)
+  - [Docker](CyberPanel/Configuration/Docker.md)
+  - [Laravel](CyberPanel/Configuration/Laravel.md)
+  - [Node-js](CyberPanel/Configuration/Node-js.md)
+  - [WordPress](CyberPanel/Configuration/WordPress.md)
+  - [Defaut-Port-Change](CyberPanel/Configuration/Defaut-Port-Change.md)
+
