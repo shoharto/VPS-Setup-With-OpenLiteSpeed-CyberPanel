@@ -19,3 +19,23 @@ This server setup guidline for the very begginers VPC Lover. In this repository 
   - [WordPress](CyberPanel/Configuration/WordPress.md)
   - [Defaut-Port-Change](CyberPanel/Configuration/Defaut-Port-Change.md)
 
+
+  ## Table of Contents for LiteSpeed
+
+  - [Introduction](LiteSpeed/Introduction.md)
+  - [Installation](LiteSpeed/Installation.md)
+
+  ## Author
+
+  Bayes Ahmed Shoharto
+    - [Facebook](https://www.facebook.com/shoharto)
+    - [Linkedin](https://www.linkedin.com/in/shoharto/)
+    - [Website](https://www.shoharto.com/)
+    - []()
+
+
+  ## Acknowledgements
+
+  - []()
+
+
