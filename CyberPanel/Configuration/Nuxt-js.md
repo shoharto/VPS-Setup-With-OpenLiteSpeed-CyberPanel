@@ -21,18 +21,18 @@ A quick introduction of the minimal setup you need to follow these steps:
 
 
 
-- [Step-One: Create Website](#step-one--create-website)
-- [Step-Two: Enable HTTPS](#step-two--enable-https)
-- [Step-Three: Connect to Server with SSH](#step-three--connect-to-server-with-ssh)
-- [Step-Four: Install Node JS & NPM](#step-four--install-node-js---npm)
-- [Step-Five: Upload Project File](#step-five--upload-project-file)
-- [Step-Six: Edit LiteSpeed Config File](#step-six--edit-litespeed-config-file)
-- [Step-Seven: Create .htaccess File](#step-seven--create-htaccess-file)
-- [Step-Eight: Starting Nuxt.js](#step-eight--starting-nuxtjs)
+- [Create Website](#step-one--create-website)
+- [Enable HTTPS](#step-two--enable-https)
+- [Connect to Server with SSH](#step-three--connect-to-server-with-ssh)
+- [Install Node JS & NPM](#step-four--install-node-js---npm)
+- [Upload Project File](#step-five--upload-project-file)
+- [Edit LiteSpeed Config File](#step-six--edit-litespeed-config-file)
+- [Create .htaccess File](#step-seven--create-htaccess-file)
+- [Starting Nuxt.js](#step-eight--starting-nuxtjs)
 - [Nuxt & PM2: Zero Downtime Deployment](#nuxt---pm2--zero-downtime-deployment)
-- [Getting Started](#getting-started)
-- [Configure your application](#configure-your-application)
-- [Build and serve the app](#build-and-serve-the-app)
+    - [Getting Started](#getting-started)
+    - [Configure your application](#configure-your-application)
+    - [Build and serve the app](#build-and-serve-the-app)
 
 ## Step-One: Create Website
 
