@@ -9,7 +9,7 @@ A brief description of Nuxt.js application deployment on LiteSpeed web server.
 
 A quick introduction of the minimal setup you need to follow these steps:
 
-- [Create Website](#Step-One)
+<!-- - [Create Website](#Step-One)
 - [Enable HTTPS](#Step-Two)
 - [Connect to Server with SSH](#Step-Three)
 - [Install Node JS & NPM](#Step-Four)
@@ -17,7 +17,22 @@ A quick introduction of the minimal setup you need to follow these steps:
 - [Edit LiteSpeed Config File](#Step-Six)
 - [Create .htaccess File](#Step-Seven)
 - [Starting Nuxt.js](#Step-Eight)
-- [Nuxt & PM2: Zero Downtime Deployment](#NUXT)
+- [Nuxt & PM2: Zero Downtime Deployment](#NUXT) -->
+
+
+
+- [Step-One: Create Website](#step-one--create-website)
+- [Step-Two: Enable HTTPS](#step-two--enable-https)
+- [Step-Three: Connect to Server with SSH](#step-three--connect-to-server-with-ssh)
+- [Step-Four: Install Node JS & NPM](#step-four--install-node-js---npm)
+- [Step-Five: Upload Project File](#step-five--upload-project-file)
+- [Step-Six: Edit LiteSpeed Config File](#step-six--edit-litespeed-config-file)
+- [Step-Seven: Create .htaccess File](#step-seven--create-htaccess-file)
+- [Step-Eight: Starting Nuxt.js](#step-eight--starting-nuxtjs)
+- [Nuxt & PM2: Zero Downtime Deployment](#nuxt---pm2--zero-downtime-deployment)
+- [Getting Started](#getting-started)
+- [Configure your application](#configure-your-application)
+- [Build and serve the app](#build-and-serve-the-app)
 
 ## Step-One: Create Website
 
