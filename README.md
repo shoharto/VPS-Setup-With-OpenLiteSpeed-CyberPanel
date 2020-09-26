@@ -16,6 +16,7 @@ This server setup guidline for the very begginers VPC Lover. In this repository 
   - [Docker](CyberPanel/Configuration/Docker.md)
   - [Laravel](CyberPanel/Configuration/Laravel.md)
   - [Node-js](CyberPanel/Configuration/Node-js.md)
+  - [Nuxt-js](CyberPanel/Configuration/Nuxt-js.md)
   - [WordPress](CyberPanel/Configuration/WordPress.md)
   - [Defaut-Port-Change](CyberPanel/Configuration/Defaut-Port-Change.md)
 
