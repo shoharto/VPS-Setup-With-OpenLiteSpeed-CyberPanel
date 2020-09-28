@@ -36,7 +36,7 @@ A quick introduction of the minimal setup you need to follow these steps:
 
 ## Step-One: Create Website
 
-Add new domain or subdomain in your LiteSpeed server by using web panel or terminal.
+Add a new domain or subdomain in your LiteSpeed server by using web panel or terminal.
 
 ## Step-Two: Enable HTTPS
 
@@ -44,7 +44,7 @@ To know how to set SSL for HTTPS read this [SSL Documentation](CyberPanel/Config
 
 ## Step-Three: Connect to Server with SSH 
 
-To know how to connect to server by SSH for access read this [SSH Documentation](CyberPanel/Configuration/SSH.md).
+To know how to connect the server by SSH for access, read this [SSH Documentation](CyberPanel/Configuration/SSH.md).
 
 ## Step-Four: Install Node JS & NPM
 
@@ -59,11 +59,12 @@ cd /home/your-domain.com
 ```
 
 And create directory for the project:
+
 ```shell
 mkdir ./your-project-name
 ```
 
-Undoubtedly, you have Nuxt.js project on your local computer or github, so copy it now to this directory.
+Undoubtedly, you have Nuxt.js project on your local computer or GitHub, so copy it now to this directory.
 
 OK, go back to the terminal where you are connected to the droplet and check that files exist in the proper directory:
 
